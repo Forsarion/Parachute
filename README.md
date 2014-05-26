@@ -1,7 +1,7 @@
 dsadasParachute
 =========
 
-# Idea
+# General idea
 
 The idea is to make an open-source "easy-to-use" service for building and distributing(OTA) iOS apps. Something similar to [TestFlight](https://www.testflightapp.com/) or [HockeyApp](http://hockeyapp.net/).
 
